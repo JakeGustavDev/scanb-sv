@@ -1,8 +1,10 @@
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+@font-face{
+  font-family: 'Anybody';
+  src: url('../fonts/Anybody_Condensed-Regular.ttf');
 }
-
-a {
-  color: #00B7FF;
+*{
+  margin: 0;
+  padding: 0;
+  text-align: none;
+  font-family: 'Anybody';
 }
